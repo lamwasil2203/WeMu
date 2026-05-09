@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 /**
  * dancer_esp32.ino
  *
@@ -18,7 +20,7 @@
 #include <math.h>
 
 // ─── CHANGE THIS to your speaker's Bluetooth name ────────────────────────────
-#define BT_SPEAKER_NAME  "CofeeLover"
+#define BT_SPEAKER_NAME  "JBL Flip 6"
 // ─────────────────────────────────────────────────────────────────────────────
 
 #define SAMPLE_RATE     44100
